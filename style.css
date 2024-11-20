@@ -1,0 +1,52 @@
+/* Styling for font-family */
+.font-example-1 {
+    font-family: 'Arial', 'Helvetica', sans-serif;
+}
+
+/* Styling for font-size */
+.font-example-2 {
+    font-size: 18px; /* Text size set to 18px */
+}
+
+/* Styling for font-weight */
+.font-example-3 {
+    font-weight: 400; /* Normal weight */
+}
+
+/* Styling for font-style */
+.font-example-4 {
+    font-style: italic; /* Italicized text */
+}
+
+/* Styling for letter-spacing */
+.font-example-5 {
+    letter-spacing: 1px; /* Adds 1px spacing between letters */
+}
+
+/* Styling for line-height */
+.font-example-6 {
+    line-height: 1.5; /* Increases spacing between lines */
+}
+
+/* Styling for word-spacing */
+.font-example-7 {
+    word-spacing: 3px; /* Adds 3px spacing between words */
+}
+
+/* Styling for font-variant */
+.font-example-8 {
+    font-variant: small-caps; /* Converts lowercase letters to small uppercase letters */
+}
+
+/* Styling for font shorthand */
+.font-example-9 {
+    font: italic small-caps bold 20px/1.5 'Arial', sans-serif;
+    /* Combines all properties: 
+        - italic font-style
+        - small-caps variant
+        - bold font-weight
+        - 20px font-size
+        - 1.5 line-height
+        - Arial font-family
+    */
+}
